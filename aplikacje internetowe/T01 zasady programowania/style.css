@@ -1,0 +1,22 @@
+body {
+    background-color: rgb(47, 255, 47);
+    color:brown;
+    font-family: 'Times New Roman', Times, serif;
+    margin: 50px;
+}
+
+dt {
+    color: rgb(255, 0, 255);
+}
+
+dl {
+    width: 50%;
+    color: black;
+}
+
+#algorytm {
+    border: 1px solid brown;
+    padding: 50px;
+    margin: 35px;
+    font-family: Arial, Helvetica, sans-serif;
+}
