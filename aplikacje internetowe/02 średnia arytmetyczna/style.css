@@ -1,0 +1,12 @@
+body {
+    background: lightgreen;
+    color: black;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    margin: 50px;
+
+}
+article {
+    background-color: lightblue;
+    color: black;
+    padding: 20px;
+}
