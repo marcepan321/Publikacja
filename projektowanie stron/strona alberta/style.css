@@ -1,0 +1,31 @@
+#container {
+    width: 90%;
+    margin: auto;
+    background-color: aqua;
+}
+
+header {
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+
+nav {
+    width: 30%;
+    background-color: grey;
+    float: left;
+}
+
+article {
+    width: 70%;
+    background-color: white;
+    float: left;
+}
+
+footer {
+    background-color: black;
+    color: white;
+    text-align: center;
+    clear: both;
+
+}
